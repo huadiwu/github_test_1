@@ -1,5 +1,3 @@
 print('hello!')
-
-fn = 'test: my_new_feature_3'
-
+fn = 'test_B1: my_new_feature_3'
 print(fn)
